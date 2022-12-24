@@ -40,7 +40,7 @@ print(file_name_s)
 
 #hyper parameter
 #estimate parameter theta
-estimate_parameters_num <- 3
+estimate_parameters_num <- 4
 
 #system state vector length
 system_state_vector_length <- 8
